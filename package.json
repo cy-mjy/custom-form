@@ -23,7 +23,9 @@
     "element-ui": "2.15.10",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": "^2.6.14",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
   },
   "browserslist": [
     "> 1%",

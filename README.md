@@ -4,7 +4,7 @@
 
 ## 示例
 
-![示例](https://github.com/cy-mjy/custom-form/raw/master/example.jpeg)
+![示例](https://github.com/cy-mjy/custom-form/raw/main/example.jpeg)
 
 ## Project setup
 ```
